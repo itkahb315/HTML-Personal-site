@@ -1,0 +1,30 @@
+body{
+      background: conic-gradient(#89C9B8 20%,#A3D2CA 20%,#5EAAA8 80%)
+    }
+    hr{
+      background-color:none;
+       /* border-style: dotted none none none; */
+       border-style:none;
+       border-top-style: dotted;
+       border-color: grey;
+       border-width:5px;
+       height: 0px;
+      width:7%;
+    }
+
+   img{
+      height: 200px
+  }
+  h1{
+  color:#CFF6CF;
+  font-family: '	Courier New', monospace;
+  }
+h3{
+  color:#FFFDDE;
+}
+h3{
+    font-family: "Lucida Handwriting" , cursive;
+}
+ *{
+font-family: "Lucida Console" , monospace;
+}
