@@ -12,14 +12,14 @@ body{
       width:7%;
     }
 
-   img{
+   /* img{
       height: 200px
-  }
+  } */
   h1{
   color:#CFF6CF;
   font-family: '	Courier New', monospace;
   }
-h3{
+h3,h4{
   color:#FFFDDE;
 }
 h3{
