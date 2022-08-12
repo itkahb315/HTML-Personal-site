@@ -1,5 +1,5 @@
 body{
-      background: conic-gradient(#89C9B8 20%,#A3D2CA 20%,#5EAAA8 80%)
+    background: conic-gradient(#89C9B8 20%,#A3D2CA 20%,#5EAAA8 80%)
     }
     hr{
       background-color:none;
@@ -12,9 +12,9 @@ body{
       width:7%;
     }
 
-   /* img{
+   img{
       height: 200px
-  } */
+  }
   h1{
   color:#CFF6CF;
   font-family: '	Courier New', monospace;
