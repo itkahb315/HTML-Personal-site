@@ -19,10 +19,15 @@ body{
   color:#CFF6CF;
   font-family: '	Courier New', monospace;
   }
-h3,h4{
+ h3,h4{
   color:#FFFDDE;
 }
-h3{
+/* h3,h4{
+ color:#0078AA;
+     }  */
+
+
+h3,h4{
     font-family: "Lucida Handwriting" , cursive;
 }
  *{
